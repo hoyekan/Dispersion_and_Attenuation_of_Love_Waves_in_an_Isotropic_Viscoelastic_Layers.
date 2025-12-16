@@ -2,6 +2,10 @@
 
 This repo contains detailed mathematical derivations and Python code for my Geophysical Wave Propagation (GEOP 602) semester project on the <u><b>dispersion and attenuation study of Love waves in an isotropic viscoelastic medium<b></u>. 
 
+The theoretical framework follows the classic work of  
+[Haskell (1953)](#haskell-1953) and [Thomson (1950)](#thomson-1950).
+
+
 ![Model 1](Plots/Model_1.PNG)
 
 ![Phase Velocity Disperion Curve](Plots/Model_1_PhaseVelocity.png)
