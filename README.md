@@ -11,7 +11,7 @@ The theoretical framework follows the classic work of [Haskell (1953)](#haskell-
 
 <b>Attenuation Coefficient Curve (Simplified Q averaging):<b> This assumes that attenuation is very small (Q>>1) and its computed using the Kolsky-Futterman model (see attached code for derivation).
 
-For small attenuation (\( Q >> 1 \)), the standard formulation is:
+For small attenuation ![Q >> 1](https://latex.codecogs.com/svg.latex?Q%20%3E%3E%201), the standard formulation is:
 
 <img src="https://latex.codecogs.com/svg.image?\frac{1}{c^*}\approx\frac{1}{c}\left(1+\frac{i}{2Q}\right)" />
 
