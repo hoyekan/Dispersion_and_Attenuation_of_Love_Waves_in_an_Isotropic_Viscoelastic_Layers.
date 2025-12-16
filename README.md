@@ -19,7 +19,7 @@ where \( c \) is the real-valued phase velocity at low loss.
 
 Starting from the wavenumber:
 
-<img src="https://latex.codecogs.com/svg.image?k=\frac{\omega}{c^*}\approx\frac{\omega}{c}\left(1-\frac{i}{2Q}\right)=\frac{\omega}{c}-i\frac{\omega}{2cQ}" />
+<img src="https://latex.codecogs.com/svg.image?k=\frac{\omega}{c^*}\approx\frac{\omega}{c}\left(1+\frac{i}{2Q}\right)=\frac{\omega}{c}+i\frac{\omega}{2cQ}" />
 
 Comparing this to \( k = k_r - i\alpha \), we immediately identify:
 
