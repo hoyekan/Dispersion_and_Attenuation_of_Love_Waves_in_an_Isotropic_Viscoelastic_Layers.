@@ -11,7 +11,8 @@ This repo contains detailed mathematical derivations and Python code for my Geop
 ![PhaseVelocity-Frequency-Attenuation Curve](Plots/Model_1_3D.png)
 
 
+---
 
-
-
-
+1. Yuan, S., Pan, L., Shi, C., Song, X., & Chen, X. (2024).  
+   *Computation and analysis of surface wave dispersion and attenuation in layered viscoelastic–vertical transversely isotropic media by the generalized R/T coefficient method.*  
+   **Geophysical Journal International, 238**(3), 1505–1529.
