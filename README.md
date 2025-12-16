@@ -4,16 +4,15 @@ This repo contains detailed mathematical derivations and Python code for my Geop
 
 The theoretical framework follows the classic work of [Haskell (1953)](#haskell-1953) and [Thomson (1950)](#thomson-1950) as implemented in [Chen k. et al. (2025)](#Chenetal2025). Model 1 used in my project is from [Yuan S. et al (2024)](#Yuanetal) (Table 4 of [Yuan S. et al (2024)](#Yuanetal))
 
-
 ![Model 1](Plots/Model_1.PNG)
 
-Phase Velocity Dispersion Curve
+<b>Phase Velocity Dispersion Curve<b>
 ![Phase Velocity Disperion Curve](Plots/Model_1_PhaseVelocity.png)
 
-Attenuation Coefficient Curve
+<b>Attenuation Coefficient Curve<b>
 ![Attenuation Coefficient Curve](Plots/Model_1_Attenuation.png)
 
-The Love-wave modal solutions in the frequency-phase velocity-attenuation coefficient domain.
+<b>The Love-wave modal solutions in the frequency-phase velocity-attenuation coefficient domain.<b>
 ![PhaseVelocity-Frequency-Attenuation Curve](Plots/Model_1_3D.png)
 
 
