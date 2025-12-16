@@ -13,6 +13,21 @@ This repo contains detailed mathematical derivations and Python code for my Geop
 
 ---
 
-1. Yuan, S., Pan, L., Shi, C., Song, X., & Chen, X. (2024).  
+## References
+
+1. **Yuan, S., Pan, L., Shi, C., Song, X., & Chen, X. (2024).**  
    *Computation and analysis of surface wave dispersion and attenuation in layered viscoelastic–vertical transversely isotropic media by the generalized R/T coefficient method.*  
    **Geophysical Journal International, 238**(3), 1505–1529.
+
+2. **Chen, K., Li, Z., Wang, M., & Sacchi, M. D. (2025).**  
+   *Theoretical calculation of dispersion and attenuation curves of deep-guided wave in viscoelastic media.*  
+   **Geophysical Journal International, 243**(3), ggaf393.
+
+3. **Haskell, N. A. (1953).**  
+   *The dispersion of surface waves on multilayered media.*  
+   **Bulletin of the Seismological Society of America, 43**, 17–34.
+
+4. **Thomson, W. T. (1950).**  
+   *Transmission of elastic waves through a stratified solid medium.*  
+   **Journal of Applied Physics, 21**(2), 89–93.
+
