@@ -21,7 +21,7 @@ Starting from the wavenumber:
 
 <img src="https://latex.codecogs.com/svg.image?k=\frac{\omega}{c^*}\approx\frac{\omega}{c}\left(1+\frac{i}{2Q}\right)=\frac{\omega}{c}+i\frac{\omega}{2cQ}" />
 
-Comparing this to \( k = k_r - i\alpha \), we immediately identify:
+Comparing this to \[ k = k_r - i\alpha \], we immediately identify:
 
 <img src="https://latex.codecogs.com/svg.image?\boxed{\alpha\approx\frac{\omega}{2cQ}}" />
 
