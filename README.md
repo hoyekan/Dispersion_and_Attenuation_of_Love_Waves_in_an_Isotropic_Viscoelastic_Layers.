@@ -23,8 +23,9 @@ Starting from the wavenumber:
 
 Comparing this to $$ k = k_r - i\alpha $$, we immediately identify:
 
-<img src="https://latex.codecogs.com/svg.image?\boxed{\alpha\approx\frac{\omega}{2cQ}}" />
+Comparing this to ![k = k_r - i\alpha](https://latex.codecogs.com/svg.latex?k%20%3D%20k_r%20-%20i%5Calpha), we immediately identify:
 
+<img src="https://latex.codecogs.com/svg.image?\boxed{\alpha\approx\frac{\omega}{2cQ}}" />
 
 ![Attenuation Coefficient Curve](Plots/Model_1_Attenuation.png)
 
