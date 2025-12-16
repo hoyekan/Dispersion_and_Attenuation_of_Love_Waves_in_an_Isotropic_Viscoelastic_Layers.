@@ -25,10 +25,10 @@ Comparing this to ![k = k_r - i\alpha](https://latex.codecogs.com/svg.latex?k%20
 
 <img src="https://latex.codecogs.com/svg.image?\boxed{\alpha\approx\frac{\omega}{2cQ}}" />
 
-![Attenuation Coefficient Curve](Plots/Model_1_Attenuation.png)
-
-<b>Attenuation Coefficient Curve<b>
 ![Attenuation Coefficient Curve Simplified](Plots/Model_1_Attenuation_Simplified.png)
+
+<b>Attenuation Coefficient Curve (Using Complex Velocity Method)<b>
+![Attenuation Coefficient Curve](Plots/Model_1_Attenuation.png)
 
 <b>The Love-wave modal solutions in the frequency-phase velocity-attenuation coefficient domain.<b>
 ![PhaseVelocity-Frequency-Attenuation Curve](Plots/Model_1_3D.png)
