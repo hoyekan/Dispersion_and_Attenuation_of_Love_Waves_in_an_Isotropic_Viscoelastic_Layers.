@@ -10,6 +10,22 @@ The theoretical framework follows the classic work of [Haskell (1953)](#haskell-
 ![Phase Velocity Disperion Curve](Plots/Model_1_PhaseVelocity.png)
 
 <b>Attenuation Coefficient Curve (Simplified Q averaging):<b> This assumes that attenuation is very small (Q>>1) and its computed using the Kolsky-Futterman model (see attached code for derivation).
+
+For small attenuation (\( Q \gg 1 \)), the standard formulation is:
+
+<img src="https://latex.codecogs.com/svg.image?\frac{1}{c^*}\approx\frac{1}{c}\left(1-\frac{i}{2Q}\right)" />
+
+where \( c \) is the real-valued phase velocity at low loss.
+
+Starting from the wavenumber:
+
+<img src="https://latex.codecogs.com/svg.image?k=\frac{\omega}{c^*}\approx\frac{\omega}{c}\left(1-\frac{i}{2Q}\right)=\frac{\omega}{c}-i\frac{\omega}{2cQ}" />
+
+Comparing this to \( k = k_r - i\alpha \), we immediately identify:
+
+<img src="https://latex.codecogs.com/svg.image?\boxed{\alpha\approx\frac{\omega}{2cQ}}" />
+
+
 ![Attenuation Coefficient Curve](Plots/Model_1_Attenuation.png)
 
 <b>Attenuation Coefficient Curve<b>
