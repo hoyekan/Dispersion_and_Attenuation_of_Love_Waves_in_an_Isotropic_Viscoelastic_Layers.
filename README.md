@@ -7,10 +7,13 @@ The theoretical framework follows the classic work of [Haskell (1953)](#haskell-
 
 ![Model 1](Plots/Model_1.PNG)
 
+Phase Velocity Dispersion Curve
 ![Phase Velocity Disperion Curve](Plots/Model_1_PhaseVelocity.png)
 
+Attenuation Coefficient Curve
 ![Attenuation Coefficient Curve](Plots/Model_1_Attenuation.png)
 
+The Love-wave modal solutions in the frequency-phase velocity-attenuation coefficient domain.
 ![PhaseVelocity-Frequency-Attenuation Curve](Plots/Model_1_3D.png)
 
 
