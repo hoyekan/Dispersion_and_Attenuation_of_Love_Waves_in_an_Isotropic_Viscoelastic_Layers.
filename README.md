@@ -21,7 +21,18 @@ Starting from the wavenumber:
 
 <img src="https://latex.codecogs.com/svg.image?k=\frac{\omega}{c^*}\approx\frac{\omega}{c}\left(1+\frac{i}{2Q}\right)=\frac{\omega}{c}+i\frac{\omega}{2cQ}" />
 
-Comparing this to \( k = k_r - i\alpha \), we immediately identify:
+Comparing this to $$ k = k_r - i\alpha $$, we immediately identify:
+
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<p>Comparing this to \( k = k_r - i\alpha \), we immediately identify:</p>
+</body>
+</html>
 
 <img src="https://latex.codecogs.com/svg.image?\boxed{\alpha\approx\frac{\omega}{2cQ}}" />
 
