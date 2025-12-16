@@ -2,7 +2,7 @@
 
 This repo contains detailed mathematical derivations and Python code for my Geophysical Wave Propagation (GEOP 602) semester project on the <u><b>dispersion and attenuation study of Love waves in an isotropic viscoelastic medium<b></u>. 
 
-The theoretical framework follows the classic work of [Haskell (1953)](#haskell-1953) and [Thomson (1950)](#thomson-1950) as implemented in [Chen k. et al. (2025)](#Chenetal2025)
+The theoretical framework follows the classic work of [Haskell (1953)](#haskell-1953) and [Thomson (1950)](#thomson-1950) as implemented in [Chen k. et al. (2025)](#Chenetal2025). Model 1 used in my project is from [Yuan S. et al (2024)](#Yuanetal) (Table 4 of [Yuan S. et al (2024)](#Yuanetal))
 
 
 ![Model 1](Plots/Model_1.PNG)
