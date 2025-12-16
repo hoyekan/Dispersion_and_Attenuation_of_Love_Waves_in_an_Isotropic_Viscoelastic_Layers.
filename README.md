@@ -2,15 +2,18 @@
 
 This repo contains detailed mathematical derivations and Python code for my Geophysical Wave Propagation (GEOP 602) semester project on the <u><b>dispersion and attenuation study of Love waves in an isotropic viscoelastic medium<b></u>. 
 
-The theoretical framework follows the classic work of [Haskell (1953)](#haskell-1953) and [Thomson (1950)](#thomson-1950) as implemented in [Chen k. et al. (2025)](#Chenetal2025). Model 1 used in my project is from [Yuan S. et al (2024)](#Yuanetal) (Table 4 of [Yuan S. et al (2024)](#Yuanetal))
+The theoretical framework follows the classic work of [Haskell (1953)](#haskell-1953) and [Thomson (1950)](#thomson-1950) as implemented in [Chen k. et al. (2025)](#Chenetal2025). Model 1 used in my project is from [Yuan S. et al (2024)](#Yuanetal) (Table 4 of [Yuan S. et al (2024)](#Yuanetal)). The attanuation coefficient is computed via complex velocity approach 
 
 ![Model 1](Plots/Model_1.PNG)
 
-<b>Phase Velocity Dispersion Curve<b>
+<b>Phase Velocity Dispersion Curve (Uisng Complex Velocity Method)<b>
 ![Phase Velocity Disperion Curve](Plots/Model_1_PhaseVelocity.png)
 
-<b>Attenuation Coefficient Curve<b>
+<b>Attenuation Coefficient Curve (Simplified Q averaging):<b> This assumes that attenuation is very small (Q>>1) and its computed using the Kolsky-Futterman model (see attached code for derivation).
 ![Attenuation Coefficient Curve](Plots/Model_1_Attenuation.png)
+
+<b>Attenuation Coefficient Curve<b>
+![Attenuation Coefficient Curve Simplified](Plots/Model_1_Attenuation_Simplified.png)
 
 <b>The Love-wave modal solutions in the frequency-phase velocity-attenuation coefficient domain.<b>
 ![PhaseVelocity-Frequency-Attenuation Curve](Plots/Model_1_3D.png)
