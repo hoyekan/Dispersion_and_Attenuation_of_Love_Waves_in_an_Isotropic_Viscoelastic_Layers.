@@ -6,7 +6,7 @@ The theoretical framework follows the classic work of [Haskell (1953)](#haskell-
 
 ![Model 1](Plots/Model_1.PNG)
 
-<b>Phase Velocity Dispersion Curve (Uisng Complex Velocity Method)<b>
+<b>Phase Velocity Dispersion Curve<b>
 ![Phase Velocity Disperion Curve](Plots/Model_1_PhaseVelocity.png)
 
 <b>Attenuation Coefficient Curve (Simplified Q averaging):<b> This assumes that attenuation is very small (Q>>1) and its computed using the Kolsky-Futterman model (see attached code for derivation).
