@@ -6,7 +6,7 @@ The theoretical framework follows the classic work of [Thomson (1950)](#referenc
 
 ## Repository Contents
 
-- `Love Waves/love_engine.py` – the numerical engine: Thomson–Haskell propagator, constant-Q Generalized Maxwell body fit, and complex-root dispersion solver.
+- `Love Waves/love_engine.py` – the numerical engine: Thomson–Haskell propagator, constant-Q Generalized Maxwell body fit, and complex-root dispersion solver. `Love Waves` also contain a pdf file that detailed the mathematical derivations.
 - `Love Waves/Complex Velocity Method.ipynb` – driver notebook that produces the figures below and other models used in the study.
 - `Plots/` – contains generated figures for Model 1.
 
