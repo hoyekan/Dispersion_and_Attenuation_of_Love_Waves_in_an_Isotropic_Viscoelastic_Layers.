@@ -6,7 +6,6 @@ The theoretical framework follows the classic work of [Thomson (1950)](#referenc
 
 ## Repository Contents
 
-- `Project.txt` – LaTeX source of the full write-up (compile with `pdflatex` + `biber`; `References.bib` and `GMB.png` are its inputs). `Project.pdf` is the compiled document.
 - `Love Waves/love_engine.py` – the numerical engine: Thomson–Haskell propagator, constant-Q Generalized Maxwell body fit, and complex-root dispersion solver.
 - `Love Waves/Complex Velocity Method.ipynb` – driver notebook that produces the figures below and other models used in the study.
 - `Plots/` – contains generated figures for Model 1.
